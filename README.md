@@ -10,6 +10,6 @@ Open ROC_Curve_Results.ipynb In Colab:[https://colab.research.google.com/github/
 
 Open Binary_SDD.ipynb In Colab:[https://colab.research.google.com/github/Hesam-92-19/Transfer_Learning_SHM/blob/main/Binary_SDD.ipynb]
 
-<a target="_blank" href="https://colab.research.google.com/github/Hesam-92-19/Transfer_Learning_SHM/blob/main/GAN_Training.ipynbhttps://colab.research.google.com/github/Hesam-92-19/Transfer_Learning_SHM/blob/main/GAN_Training.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/Hesam-92-19/Transfer_Learning_SHM/blob/main/GAN_Training.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
